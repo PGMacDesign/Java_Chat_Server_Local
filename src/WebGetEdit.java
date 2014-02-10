@@ -2,8 +2,8 @@ import java.io.*;
 import java.net.Socket;
 import java.util.*;
 
-/*This program is an edited version of the WebGet program in the textbook
- * on pages 847-848. It is edited so that it prints only the HTTP header
+/*This program is an edited version of the WebGet program. 
+ *It is edited so that it prints only the HTTP header
  */
 public class WebGetEdit {
 	
